@@ -3,17 +3,19 @@
 
 ## Basic Information
 - **Who am I?**: Aidi Li
-- **What do I like?**: I have a passion for *poetry*, *sci-fi movies*, and *music*.
+- **What do I like?**: I have a passion for poetry, sci-fi movies, and music.
 
 ## My Favorite Albums
 Here are my top three albums, each with its unique charm:
-1. *Blond* by Frank Ocean
+1. *Blonde* by Frank Ocean
 2. *In Rainbows* by Radiohead
 3. *The Dark Side Of The Moon* by Pink Floyd
 
 ## My Favorite Sci-Fi Story
 - My all-time favorite sci-fi story is *The Very Pulse of the Machine*.
-  ![This story is also featured in the Netflix series: *Love Death and Robots* S3E3](https://preview.redd.it/1egorkoi1c191.png?width=960&crop=smart&auto=webp&s=f884cd3a38a4f0161e98d0634acbd31af8d6d5a4)
+ ![This story is also featured in the Netflix series: *Love Death and Robots* S3E3](https://preview.redd.it/1egorkoi1c191.png?width=960&crop=smart&auto=webp&s=f884cd3a38a4f0161e98d0634acbd31af8d6d5a4)
+<center>*This story is also featured in the Netflix series: Love Death and Robots S3E3*</center>
+
 
 ## More About Me
 - Feel free to visit my personal website: [Aidi's website](www.liaidi.me)
