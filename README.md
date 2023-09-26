@@ -1,22 +1,24 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/bEPlIkIB)
-# hw01
+# About Me
 
-Edit this README file to include a brief biography of yourself. Your README should include the following elements:
-* Headers (one or more)
-* Emphasis (italics or/and bold)
-* Lists
-* Images: add a picture (of yourself or something else) to your repo and embed it in your README
-* Links
-* A summary and reflection of the Git/GitHub workflow you adopted for this homework, and of your experience with Markdown (e.g., provide a summary of the workflow you adopted, and add some comments about something new you learned, something that surprised you, etc.)
+## Basic Information
+- **Who am I?**: Aidi Li
+- **What do I like?**: I have a passion for *poetry*, *sci-fi movies*, and *music*.
+
+## My Favorite Albums
+Here are my top three albums, each with its unique charm:
+1. *Blond* by Frank Ocean
+2. *In Rainbows* by Radiohead
+3. *The Dark Side Of The Moon* by Pink Floyd
+
+## My Favorite Sci-Fi Story
+- My all-time favorite sci-fi story is *The Very Pulse of the Machine*.
+  ![This story is also featured in the Netflix series: *Love Death and Robots* S3E3](https://preview.redd.it/1egorkoi1c191.png?width=960&crop=smart&auto=webp&s=f884cd3a38a4f0161e98d0634acbd31af8d6d5a4)
+
+## More About Me
+- Feel free to visit my personal website: [Aidi's website](www.liaidi.me)
+
+## Homework Workflow
+In this homework assignment, I started by cloning the repository from our GitHub Classroom to create a local copy that I could modify. After making the necessary changes, I used the `git add` and `git commit` commands to stage and commit my updates. Finally, I pushed these committed changes back to my own repository using `git push`. Through this process, I learned how to add hyperlinks to both images and text, which was a new and valuable skill for me.
 
 
-
-## 📚  Resources 
-* [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
-* [Git and GitHub learning resources](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources) 
-* [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-* [How to use GitHub branches](https://www.youtube.com/watch?v=H5GJfcp3p4Q&feature=youtu.be)
-* [Interactive Git training materials](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class)
-* [GitHub's Learning Lab](https://lab.github.com/)
-* [Education community forum](https://education.github.community/)
-* [GitHub community forum](https://github.community/)
